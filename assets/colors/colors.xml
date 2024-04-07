@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent" type="material material-accent">#DB1F26</color>
+    <color name="red" type="material">#DB1F26</color>
+    <color name="redDark" type="material">#760300</color>
+</resources>
